@@ -18,7 +18,16 @@
 .line-block-visitor {
   padding:10px;
   border:1px solid #bbb;
+  background-color:#efefef;
   height:200px;
+  overflow:auto;
+}
+
+.line-block-double {
+  padding:10px;
+  border:1px solid #bbb;
+  background-color:#efefef;
+  height:400px;
   overflow:auto;
 }
 
