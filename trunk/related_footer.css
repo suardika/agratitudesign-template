@@ -23,7 +23,13 @@
   overflow:auto;
 }
 
-.line-block-double {
+.double-block {
+  padding:10px;
+  border:1px solid #bbb;
+  height:400px;
+}
+
+.double-block-visitor {
   padding:10px;
   border:1px solid #bbb;
   background-color:#efefef;
