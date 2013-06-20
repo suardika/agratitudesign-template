@@ -19,7 +19,7 @@
   padding:10px;
   border:1px solid #bbb;
   height:144px;
-  background: #c6c6c6;;
+  background: rgb(228, 228, 228);
 }
 
 .line-block-visitor {
@@ -33,7 +33,7 @@
   padding:10px;
   border:1px solid #bbb;
   height:395px;
-  background: #c6c6c6;
+  background: #545454;
 }
 
 #mamas-topik {
