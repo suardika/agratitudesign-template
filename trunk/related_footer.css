@@ -69,6 +69,7 @@
   align:center;
   border:2px solid #666;
   margin-left: 20px;
+  height: 200px;
   overflow: auto;
   padding: 3px;
   text-align: left;
