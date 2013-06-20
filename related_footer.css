@@ -29,17 +29,11 @@
   overflow:auto;
 }
 
-.double-block {
+.line-block-alexa {
   padding:10px;
   border:1px solid #bbb;
-  height:377px;
-}
-
-.double-block-visitor {
-  padding:10px;
-  border:1px solid #bbb;
-  height:377px;
-  overflow:auto;
+  height:395px;
+  background:#f9f9f9;
 }
 
 #mamas-topik {
