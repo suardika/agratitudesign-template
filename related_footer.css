@@ -25,13 +25,13 @@
 .double-block {
   padding:10px;
   border:1px solid #bbb;
-  height:390px;
+  height:380px;
 }
 
 .double-block-visitor {
   padding:10px;
   border:1px solid #bbb;
-  height:390px;
+  height:380px;
   overflow:auto;
 }
 
