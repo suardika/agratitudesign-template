@@ -15,6 +15,13 @@
   height:200px;
 }
 
+.line-block-plus {
+  padding:10px;
+  border:1px solid #bbb;
+  height:120px;
+  background:#f9f9f9;
+}
+
 .line-block-visitor {
   padding:10px;
   border:1px solid #bbb;
