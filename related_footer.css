@@ -32,7 +32,6 @@
 .double-block-visitor {
   padding:10px;
   border:1px solid #bbb;
-  background-color:#efefef;
   height:400px;
   overflow:auto;
 }
