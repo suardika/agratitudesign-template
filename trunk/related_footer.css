@@ -32,8 +32,9 @@
 .line-block-alexa {
   padding:10px;
   border:1px solid #bbb;
-  height:144px;
+  height:200px;
   background: #ffffff;
+  overflow:auto;
 }
 
 #mamas-topik {
