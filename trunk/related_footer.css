@@ -29,10 +29,10 @@
   overflow:auto;
 }
 
-.line-inner-visitor {
+.inner-script {
   padding:10px;
   border:1px solid #bbb;
-  height:50px;
+  height:100px;
   overflow:auto;
 }
 
