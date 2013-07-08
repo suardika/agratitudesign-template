@@ -30,9 +30,11 @@
   font-size:12px;
   text-decoration:none;
   color:#0000ff;
+  text-decoration:underline;
 }
 
 #dte_recent-post li a.title:hover {
+  color:#0000cc;
   text-decoration:underline;
 }
 
