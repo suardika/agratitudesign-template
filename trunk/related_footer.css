@@ -29,6 +29,13 @@
   overflow:auto;
 }
 
+.line-side-visitor {
+  padding:10px;
+  border:1px solid #bbb;
+  height:140px;
+  overflow:auto;
+}
+
 .line-block-alexa {
   padding:10px;
   border:1px solid #bbb;
