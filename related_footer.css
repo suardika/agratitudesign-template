@@ -31,8 +31,8 @@
 
 .inner-script {
   padding:10px;
-  border:1px solid #bbb;
-  height:130px;
+  border:2px solid #bbb;
+  height:125px;
   overflow:auto;
 }
 
