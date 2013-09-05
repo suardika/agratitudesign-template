@@ -65,8 +65,7 @@
 	margin: 1em 0 1em 0 !important;
 	padding: 1px !important; /* adds a little border on top and bottom */
 	position: relative !important;
-  border:1px solid #9BDF70;
-  background-color: #F0FBEB
+
 }
 
 .syntaxhighlighter .bold 
@@ -81,6 +80,8 @@
 
 .syntaxhighlighter .line
 {
+  border:1px solid #9BDF70;
+  background-color: #F0FBEB
 }
 
 .syntaxhighlighter .no-wrap .line .content
