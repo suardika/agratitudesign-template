@@ -2,17 +2,17 @@ div.highlight {
 	background:#0F192A;
 	border:1px solid #253E5A;
 	color:#CCDBFF !important;
-	font-family:"Courier New",Courier,monospace;
-	font-size:12px;
-	overflow: hidden;
-	margin: 0 0 1.5em;
+	font-family:"Courier New",Courier,monospace !important;
+	font-size:12px !important;
+	overflow: hidden !important;
+	margin: 0 0 1.5em !important;
 }
 div.highlight pre{
 	width: 100%;
 	overflow: auto;
 	padding:0;
 	margin:0;
-	font-size:12px;
+	font-size:12px !important;
 	clear: both;
 	border-radius: 0;
 	border: none;
@@ -21,10 +21,10 @@ div.highlight pre{
 /* tabs */
 div.highlight ul.tabs {
 	overflow: hidden;
-	padding: 5px 0 5px 0;
+	padding: 5px 0 5px 0 !important;
 	margin: 0;
 	list-style: none;
-	border-bottom: 1px solid #E0E0E0;
+	border-bottom: 1px solid #E0E0E0 !important;
 	width: 100%;
 	position: relative;
 }
@@ -33,9 +33,9 @@ div.highlight ul.tabs li {
 	margin: 0 5px;
 	float: left;
 	background: none;
-	border-bottom: 1px dashed #6AA1AD;
+	border-bottom: 1px dashed #6AA1AD !important;
 	line-height:1.0em;
-	color: #6AA1AD;
+	color: #6AA1AD !important;
 	cursor: pointer;
 }
 div.highlight ul.tabs li.active {
@@ -47,87 +47,87 @@ div.highlight ul.tabs li.active {
 div.highlight pre.code ol {
 	margin: 0;
 	padding:0 0 0 45px;
-	background:#0F192A; 
+	background:#0F192A !important; 
 }
 div.highlight pre.code ul {
-	margin: 0;
-	padding:0;	
+	margin: 0 !important;
+	padding:0 !important;	
 }
 div.highlight pre.code ol li,
 div.highlight pre.code ul li {
 	padding:0 0 0 5px;
-	border-left:3px solid #435a5f;
-	background:#111D30;
+	border-left:3px solid #435a5f !important;
+	background:#111D30 !important;
 }
 div.highlight pre.code ul li {
 	border-left:none;
 }
 div.highlight pre.code ol li.even,
 div.highlight pre.code ul li.even {
-	background-color:#0F192A;
+	background-color:#0F192A !important;
 }
 div.highlight pre.source {
 	display: none;
-	padding:0 0 0 5px;
+	padding:0 0 0 5px !important;
 }
 
 /* highligting */
 pre.code .str { 
-	color: #1DC116; 
+	color: #1DC116 !important; 
 }
 pre.code .kwd,
 pre.code .kwd span { 
-	color: #b43d3d;
+	color: #b43d3d !important;
 }
 pre.code .com,
 pre.code .com span { 
-	color:#1DC116;
-	font-style: italic;
-	font-weight: normal; 
+	color:#1DC116 !important;
+	font-style: italic !important;
+	font-weight: normal !important; 
 }
 pre.code .typ { 
-	color: #F8BB00; 
+	color: #F8BB00 !important; 
 }
 pre.code .lit { 
-	color: #F8BB00;
+	color: #F8BB00 !important;
 }
 pre.code .pun { 
-	color: #660; }
+	color: #660 !important; }
 pre.code .pln { 
-	color: #8A5E00; 
+	color: #8A5E00 !important; 
 }
 pre.code .tag { 
-	color: #B43D3D;
+	color: #B43D3D !important;
 	font-weight: bold;  
 } 
 pre.code .atn { 
-	color: #F8BB00; 
+	color: #F8BB00 !important; 
 }
 pre.code .atv { 
-	color: #1DC016; 
+	color: #1DC016 !important; 
 }
 pre.code .dec { 
-	color: #F8BB00; 
+	color: #F8BB00 !important; 
 }
 pre.code .fnc,
 pre.code .fnc span { 
-	color: #D1EDFF; 
+	color: #D1EDFF !important; 
 }
 
 /* css */
 .css pre.code .kwd,
 .css pre.code .kwd span { 
-	color: #B43D3D;
+	color: #B43D3D !important;
 	font-weight: bold; 
 }
 /* php */
 .php pre.code .str,
 .php pre.code .str span { 
-	color: #1DC116; 
+	color: #1DC116 !important; 
 }
 .php pre.code .var,
 .php pre.code .var span { 
-	color: #D1EDFF; 
+	color: #D1EDFF !important; 
 }
 .php pre.code .com,
 .php pre.code .com span { 
