@@ -1,0 +1,187 @@
+#wrap-carousel {
+border: 1px solid #c7d8ad;
+width: 605px !important;
+text-align: center;
+}
+
+#carousel {
+text-align: center;
+width: 605px;
+height: 275px;
+background-color: #e5f2d6;
+overflow: hidden;
+position: relative;
+}
+
+#carousel ul {
+display: block;
+margin: 0 0 0 25px;
+padding: 0;
+position: absolute;
+}
+
+#carousel li {
+text-align: center;
+display: block;
+width: 165px;
+height: 250px;
+margin: 0;
+float: left;
+}
+
+#carousel li img {
+border: 1px solid rgb(204, 204, 204);
+background-color: white;
+box-shadow: none !important;
+padding: 6px ;
+display: block;
+float: left;
+margin: 0;
+position: absolute;
+}	
+
+#carousel li:before {
+content: none !important;
+}
+.clearfix {
+float: none;
+clear: both;
+}
+#carousel .prev, #carousel .next {
+background: transparent url(https://agratitudesign-template.googlecode.com/svn/branches/carousel_control2.png) no-repeat 0 0;
+text-indent: -999px;
+display: block;
+overflow: hidden;
+width: 15px;
+height: 21px;
+margin-left: 5px;
+position: absolute;
+top: 115px;
+}
+#carousel .prev {
+background-position: 0 0;
+left: 0px;
+}
+#carousel .prev:hover {
+left: 0px;
+}
+#carousel .next {
+background-position: -18px 0;
+right: 2px;
+}
+#carousel .next:hover {
+right: 2px;
+}
+#carousel .pager {
+text-align: center;
+top: 230px;	
+position: relative;
+}
+#carousel .pager a {
+background: transparent url(https://agratitudesign-template.googlecode.com/svn/branches/carousel_control2.png) no-repeat -2px -32px;
+text-decoration: none;
+text-indent: -999px;
+display: inline-block;
+overflow: hidden;
+width: 8px;
+height: 8px;
+margin: 0 5px 0 0;
+}
+#carousel .pager a.selected {
+background: transparent url(https://agratitudesign-template.googlecode.com/svn/branches/carousel_control2.png) no-repeat -12px -32px;
+text-decoration: underline;
+}
+
+#wrap-carousel2 {
+border: 1px solid #c7d8ad;
+width: 605px !important;
+text-align: center;
+}
+
+#carousel2 {
+text-align: center;
+width: 605px;
+height: 186px;
+background-color: #e5f2d6;
+overflow: hidden;
+position: relative;
+}
+
+#carousel2 ul {
+display: block;
+margin: 0 0 0 20px;
+padding: 0;
+position: absolute;
+}
+
+#carousel2 li {
+text-align: center;
+display: block;
+width: 165px;
+height: 186px;
+margin: 0;
+float: left;
+}
+
+#carousel2 li img {
+border: 1px solid rgb(204, 204, 204);
+background-color: white;
+box-shadow: none !important;
+padding: 6px ;
+display: block;
+float: left;
+margin: 0;
+position: absolute;
+}	
+
+#carousel2 li:before {
+content: none !important;
+}
+.clearfix2 {
+float: none;
+clear: both;
+}
+#carousel2 .prev, #carousel2 .next {
+background: transparent url(https://agratitudesign-template.googlecode.com/svn/branches/carousel_control2.png) no-repeat 0 0;
+text-indent: -999px;
+display: block;
+overflow: hidden;
+width: 15px;
+height: 21px;
+margin-left: 5px;
+position: absolute;
+top: 70px;
+}
+#carousel2 .prev {
+background-position: 0 0;
+left: 0px;
+}
+#carousel2 .prev:hover {
+left: 0px;
+}
+#carousel2 .next {
+background-position: -18px 0;
+right: 2px;
+}
+#carousel2 .next:hover {
+right: 2px;
+}
+#carousel2 .pager {
+text-align: center;
+top: 140px;	
+position: relative;
+}
+#carousel2 .pager a {
+background: transparent url(https://agratitudesign-template.googlecode.com/svn/branches/carousel_control2.png) no-repeat -2px -32px;
+text-decoration: none;
+text-indent: -999px;
+display: inline-block;
+overflow: hidden;
+width: 8px;
+height: 8px;
+margin: 0 5px 0 0;
+}
+#carousel2 .pager a.selected {
+background: transparent url(https://agratitudesign-template.googlecode.com/svn/branches/carousel_control2.png) no-repeat -12px -32px;
+text-decoration: underline;
+}
