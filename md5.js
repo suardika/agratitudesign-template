@@ -217,3 +217,4 @@ function b64MD5w(str) { return binl2b64(coreMD5(strw2binl(str))) }
 function calcMD5(str) { return binl2hex(coreMD5( str2binl(str))) }
 
 /* created by agratitudesign impression
+/* supported by wiswaweb.com
