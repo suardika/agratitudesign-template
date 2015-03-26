@@ -22,14 +22,14 @@
 
 .jquery-lightbox-border-top-left
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat 0 0;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat 0 0;
   top:0;
   left:0;
 }
 
 .jquery-lightbox-border-top-right
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat right 0;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat right 0;
   top:0;
   right:0;
 }
@@ -48,14 +48,14 @@
 
 .jquery-lightbox-border-bottom-left
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat 0 bottom;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat 0 bottom;
   bottom:0;
   left:0;
 }
 
 .jquery-lightbox-border-bottom-right
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat right bottom;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat right bottom;
   bottom:0;
   right:0;
 }
@@ -149,12 +149,12 @@
 .jquery-lightbox-loading,
 .jquery-lightbox-mode-html .jquery-lightbox-loading
 {
-  background:#ffffff url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/loading.gif) no-repeat center center;
+  background:#ffffff url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/loading.gif) no-repeat center center;
 }
 
 .jquery-lightbox-button-close
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -154px -23px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -154px -23px;
   position:absolute;
   top:7px;
   right:-26px;
@@ -164,7 +164,7 @@
 
 .jquery-lightbox-button-close:hover
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -203px -23px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -203px -23px;
 }
 
 .jquery-lightbox-button-close span,
@@ -175,7 +175,7 @@
 
 .jquery-lightbox-mode-image .jquery-lightbox-button-close
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -30px -29px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -30px -29px;
   right:14px;
   z-index:7002;
   width:40px;
@@ -184,7 +184,7 @@
 
 .jquery-lightbox-mode-image .jquery-lightbox-button-close:hover
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -83px -29px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -83px -29px;
 }
 
 .jquery-lightbox-buttons 
@@ -206,12 +206,12 @@
 
 .jquery-lightbox-buttons .jquery-lightbox-buttons-init
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -32px -82px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -32px -82px;
 }
 
 .jquery-lightbox-buttons .jquery-lightbox-buttons-end
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -339px -82px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -339px -82px;
 }
 
 .jquery-lightbox-buttons .jquery-lightbox-button-left
@@ -227,7 +227,7 @@
 
 .jquery-lightbox-buttons .jquery-lightbox-button-max
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -72px -82px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -72px -82px;
   width:29px;
   height:29px;
   float:left;
@@ -236,13 +236,13 @@
 
 .jquery-lightbox-buttons .jquery-lightbox-button-max:hover
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -141px -82px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -141px -82px;
 }
 
 
 .jquery-lightbox-buttons .jquery-lightbox-button-min
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -192px -82px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -192px -82px;
   width:29px;
   height:29px;
   float:left;
@@ -251,7 +251,7 @@
 
 .jquery-lightbox-buttons .jquery-lightbox-button-min:hover
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -226px -82px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -226px -82px;
 }
 
 
@@ -282,7 +282,7 @@
 
 .jquery-lightbox-navigator .jquery-lightbox-button-left
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -7px -141px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -7px -141px;
   cursor: pointer;
   display: block;
   height: 84px;
@@ -295,12 +295,12 @@
 }
 .jquery-lightbox-navigator .jquery-lightbox-button-left:hover
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -50px -141px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -50px -141px;
 }
 
 .jquery-lightbox-navigator .jquery-lightbox-button-right
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -389px -141px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -389px -141px;
   cursor: pointer;
   display: block;
   height: 84px;
@@ -314,7 +314,7 @@
 
 .jquery-lightbox-navigator .jquery-lightbox-button-right:hover
 {
-  background: url(https://raw.githubusercontent.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -351px -141px;
+  background: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/lightbox/lightbox_img/jquery-lightbox-theme.png) no-repeat -351px -141px;
 }
 
 .jquery-lightbox-navigator span
