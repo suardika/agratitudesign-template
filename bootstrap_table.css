@@ -1,6 +1,8 @@
 @font-face {
   font-family: 'Playball';
-  src: url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/fonts/playball.woff) format('woff2'), url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/fonts/playball.woff2) format('woff');
+  font-style: normal;
+  font-weight: 400;
+  src: local('Playball'), local('Playball-Regular'), url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/fonts/playball.woff2) format('woff2'), url(https://cdn.rawgit.com/suardika/agratitudesign-template/master/fonts/playball.woff) format('woff');
 }
 
 table {
