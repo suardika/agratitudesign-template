@@ -76,7 +76,7 @@ body {
     border-bottom: #fff solid 1px;
     background: #CFD5DD;
     padding: 20px 0;
-    background: #333;
+    background: #5B6674;
 }
 #spidochetube_player #player {
     margin: 20px auto;
@@ -106,7 +106,7 @@ body {
     margin-bottom: 15px;
 }
 .spidochetube #spidochetube_list li:hover {
-    border-color: #333;
+    border-color: #5B6674;
 }
 .spidochetube #spidochetube_list li a {
     padding: 0 10px;
@@ -131,8 +131,8 @@ body {
     display: block;
 }
 .spidochetube #spidochetube_list li.spidochetube_current {
-    background: #222;
-    background: #333;
+    background: #3A495E;
+    background: #5B6674;
 }
 .spidochetube #spidochetube_list li.spidochetube_current a {
     color: #eee;
@@ -155,7 +155,7 @@ body {
     border: 1px solid #CFD5DD;
 }
 #spidochetube_loadmore:hover {
-    border-color: #333;
+    border-color: #5B6674;
 }
 
 
