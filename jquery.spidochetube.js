@@ -59,7 +59,7 @@
             }
 
             // Build the url
-            url ="https://www.googleapis.com/youtube/v3/playlistItems?playlistId="+id+"&orderby=time&pageToken="+next_page+"&maxResults="+max_results+"&key="+settings.key+"&part=snippet,status,contentDetails";
+            url ="https://www.googleapis.com/youtube/v3/playlistItems?playlistId="+id+"&orderby=reversedPosition&pageToken="+next_page+"&maxResults="+max_results+"&key="+settings.key+"&part=snippet,status,contentDetails";
 
             //Connect to youtube via json
             $.getJSON(url,function(data){
