@@ -110,7 +110,7 @@
             loadMore: {
                 element: '#js-loadMore-masonry-projects',
                 action: 'click',
-                loadItems: 3,
+                loadItems: 5,
             }
         },
     });
