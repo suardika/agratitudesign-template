@@ -1,5 +1,3 @@
-
-//<![CDATA[
 var postTitle = new Array();
 var postUrl = new Array();
 var postMp3 = new Array();
@@ -319,4 +317,3 @@ function looptemp2() {
     }
 };
 
-//]]>
